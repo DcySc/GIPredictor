@@ -1,0 +1,15 @@
+#con{
+    width: 80%;
+    margin:0 auto;
+}
+#con table{
+    margin: 20px auto;
+    border-collapse: collapse;
+    width:600px;
+}
+#con table tr td{
+    border:1px solid black;
+    width:200px;
+    text-align:center;
+    line-height:30px;
+}
